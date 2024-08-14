@@ -103,10 +103,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sherilyshieh&show_icons=true&theme=ambient_gradient" align="left" />
 <img src="https://streak-stats.demolab.com/?user=sherilyshieh&theme=dark" align="right" />  
 </div> 
-<br/>  
-
-<br/>  
-## 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherilyshieh&layout=compact" align="center" />  
 </div>
